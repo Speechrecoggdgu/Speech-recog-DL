@@ -5,6 +5,6 @@ This project aims to convert speech to text using a deep learning algorithm and 
 
 Requirements:-
 XCode 12.4
-CocoaPod
+CocoaPods
 Python 3.9
 
